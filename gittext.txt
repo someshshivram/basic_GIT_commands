@@ -1,3 +1,7 @@
 
+create new branch -------  git checkout <branch name > 
 
---gitadd
+commit 
+
+push  
+
